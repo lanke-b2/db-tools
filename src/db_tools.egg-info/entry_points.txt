@@ -1,0 +1,4 @@
+[console_scripts]
+db-tools = db_tools.app:main
+debug = db_tools.debug_wrapper:main
+web-debug = db_tools.web_debug:main
